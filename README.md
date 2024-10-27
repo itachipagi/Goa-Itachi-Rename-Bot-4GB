@@ -35,7 +35,7 @@
 
  - Deploy To Heroku
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Rename-Bot-4GB"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
+<a href="https://heroku.com/deploy?template=https://github.com/itachipagi/Goa-Itachi-Rename-Bot-4GB"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
 </p>
 </b>
 </details>
